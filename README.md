@@ -86,7 +86,7 @@
 
 # 🐍 Contribution Snake (Live Animation)
 
-![snake dark](https://github.com/Shivam_Work/blob/output/snake.svg)
+![snake dark](https://github.com/Shivam_Work/blob/output/snake.yml)
 
 # 📈 Contribution Graph
 
